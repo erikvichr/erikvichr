@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @erikvichr
-- 👀 I love programming and enjoy playing floorball.
-- 🌱 I’m currently learning Swift programming language. 
+- 👀 I’m passionate about programming, and I enjoy playing floorball and going to the gym.
+- 🌱 I’m currently learning the Kotlin programming language.
 - 📫 How to reach me:
 -   - E-Mail: erik.vichr@gmail.com
     - Tel: +41 79 643 70 74
